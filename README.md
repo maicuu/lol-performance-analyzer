@@ -6,9 +6,10 @@ Um analisador de estatísticas em tempo real para League of Legends construído 
 
 ## 🎯 Motivação e Contexto
 
-Este projeto foi desenvolvido como aplicação prática para consolidar os conhecimentos adquiridos nas formações da **Alura**:
-- [cite_start]🏅 Python para Dados: Primeiros Passos [cite: 5]
-- [cite_start]🏅 Imersão Dados com Python II [cite: 19]
+Este projeto foi desenvolvido como aplicação prática para consolidar os conhecimentos adquiridos nas formações da Alura:
+
+🏅 Python para Dados: Primeiros Passos 
+🏅 Imersão Dados com Python II
 
 O objetivo principal foi sair da teoria e aplicar lógica de programação, mineração de dados complexos e consumo de APIs REST em um cenário real. O projeto demonstra a capacidade de traduzir regras de negócio (neste caso, de E-sports) em código funcional e limpo, visando a preparação para novos e exigentes desafios no mercado de tecnologia em nível global.
 
